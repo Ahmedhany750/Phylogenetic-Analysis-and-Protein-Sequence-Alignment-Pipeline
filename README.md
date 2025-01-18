@@ -29,7 +29,11 @@ The **Phylogenetic Analysis and Protein Sequence Alignment Pipeline** is a compr
 4. **Customizability**: Supports user-defined inputs and configurations, ensuring adaptability for diverse research needs.
 
 ---
-
+## output section
+### UPGMA
+![UPGMA](https://github.com/user-attachments/assets/8c0fa791-f21e-4472-8bdd-0959039dae24)
+### NJ
+![NJ](https://github.com/user-attachments/assets/4b4ceac5-4c50-4f95-95a7-dcc311954d6c)
 ## Getting Started
 ### Prerequisites
 Ensure the following are installed on your system:
